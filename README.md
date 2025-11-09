@@ -45,7 +45,8 @@ Good Luck!
 
 [<img src="https://github.com/user-attachments/assets/56d063a8-544b-40b1-96a9-83648ad81f31" width="110" height="110" alt="CompTIA A+ Badge">](https://www.credly.com/badges/51c2da63-3c4a-4af0-af48-c943f041dc33/public_url)
 
-[![TryHackMe](./assets/tryhackme-badge.png)](https://tryhackme.com/p/sjbeaver89)
+
+
 
 
 
