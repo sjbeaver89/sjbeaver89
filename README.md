@@ -42,6 +42,7 @@ Good Luck!
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20AI%20Essentials-Certified-blue?logo=google)](https://www.coursera.org/account/accomplishments/professional-cert/DPW86OBNTE9O)
 
+![Security+](https://img.shields.io/badge/Certification-Security%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)
 
 [<img src="https://github.com/user-attachments/assets/56d063a8-544b-40b1-96a9-83648ad81f31" width="110" height="110" alt="CompTIA A+ Badge">](https://www.credly.com/badges/51c2da63-3c4a-4af0-af48-c943f041dc33/public_url)
 
