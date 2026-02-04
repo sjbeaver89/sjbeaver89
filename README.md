@@ -42,7 +42,9 @@ Good Luck!
 
 [![Google Data Analytics](https://img.shields.io/badge/Google%20AI%20Essentials-Certified-blue?logo=google)](https://www.coursera.org/account/accomplishments/professional-cert/DPW86OBNTE9O)
 
-[![Security+](https://images.credly.com/images/15477926-7871-4609-906d-4959edb1f63e/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/f75003fa-5f8d-4b6d-9341-95032b70cc11)
+<a href="https://www.credly.com/badges/f75003fa-5f8d-4b6d-9341-95032b70cc11">
+   <img src="https://images.credly.com/images/15477926-7871-4609-906d-4959edb1f63e/CompTIA_Security_2Bce.png" width="150" height="150" alt="Security+ Badge">
+</a>
 
 [<img src="https://github.com/user-attachments/assets/56d063a8-544b-40b1-96a9-83648ad81f31" width="110" height="110" alt="CompTIA A+ Badge">](https://www.credly.com/badges/51c2da63-3c4a-4af0-af48-c943f041dc33/public_url)
 
