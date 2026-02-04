@@ -44,8 +44,6 @@ Good Luck!
 
 
 [<img width="110" height="110" alt="blob" src="https://github.com/user-attachments/assets/f5173e38-1487-41be-aa26-cb48bdace38c" />](https://www.credly.com/badges/f75003fa-5f8d-4b6d-9341-95032b70cc11/public_url)
-
-
 [<img src="https://github.com/user-attachments/assets/56d063a8-544b-40b1-96a9-83648ad81f31" width="110" height="110" alt="CompTIA A+ Badge">](https://www.credly.com/badges/51c2da63-3c4a-4af0-af48-c943f041dc33/public_url)
 
 
