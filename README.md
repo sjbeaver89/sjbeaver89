@@ -16,6 +16,7 @@
 ---
 
 ### 📚 Latest Projects
+- 📊 Splunk SIEM Log Analysis
 - 🐟 Phishing Email Detection (ML)
 - 🔥 Ransomware Trends Analysis
 - 🔒 Fail2ban Deployment & Configuration
